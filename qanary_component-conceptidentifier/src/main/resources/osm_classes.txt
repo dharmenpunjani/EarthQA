@@ -1,0 +1,105 @@
+http://www.app-lab.eu/osm/ontology#Airport,Airport
+http://www.app-lab.eu/osm/ontology#Arts_Centre,Arts Centre
+http://www.app-lab.eu/osm/ontology#Atm,Atm
+http://www.app-lab.eu/osm/ontology#Attraction,Attraction
+http://www.app-lab.eu/osm/ontology#Bakery,Bakery
+http://www.app-lab.eu/osm/ontology#Bank,Bank
+http://www.app-lab.eu/osm/ontology#Bar,Bar
+http://www.app-lab.eu/osm/ontology#Beach,Beach
+http://www.app-lab.eu/osm/ontology#Bed_And_breakfast,Bed And breakfast
+http://www.app-lab.eu/osm/ontology#Bicycle_Rental,Bicycle Rental
+http://www.app-lab.eu/osm/ontology#Bookshop,Bookshop
+http://www.app-lab.eu/osm/ontology#Bus_Station,Bus Station
+http://www.app-lab.eu/osm/ontology#Bus_Stop,Bus Stop
+http://www.app-lab.eu/osm/ontology#Butcher,Butcher
+http://www.app-lab.eu/osm/ontology#Cafe,Cafe
+http://www.app-lab.eu/osm/ontology#Canal,Canal
+http://www.app-lab.eu/osm/ontology#Car_Rental,Car Rental
+http://www.app-lab.eu/osm/ontology#Car_Repair,Car Repair
+http://www.app-lab.eu/osm/ontology#Car_Wash,Car Wash
+http://www.app-lab.eu/osm/ontology#Castle,Castle
+http://www.app-lab.eu/osm/ontology#Cemetery,Cemetery
+http://www.app-lab.eu/osm/ontology#Chemist,Chemist
+http://www.app-lab.eu/osm/ontology#Church,Church
+http://www.app-lab.eu/osm/ontology#Cinema,Cinema
+http://www.app-lab.eu/osm/ontology#City,City
+http://www.app-lab.eu/osm/ontology#College,College
+http://www.app-lab.eu/osm/ontology#Community_Centre,Community Centre
+http://www.app-lab.eu/osm/ontology#Courthouse,Courthouse
+http://www.app-lab.eu/osm/ontology#Crossing,Crossing
+http://www.app-lab.eu/osm/ontology#Cycleway,Cycleway
+http://www.app-lab.eu/osm/ontology#Dam,Dam
+http://www.app-lab.eu/osm/ontology#Dentist,Dentist
+http://www.app-lab.eu/osm/ontology#Department_Store,Department Store
+http://www.app-lab.eu/osm/ontology#Dock,Dock
+http://www.app-lab.eu/osm/ontology#Doctors,Doctors
+http://www.app-lab.eu/osm/ontology#Dog_Park,Dog Park
+http://www.app-lab.eu/osm/ontology#Embassy,Embassy
+http://www.app-lab.eu/osm/ontology#Farm,Farm
+http://www.app-lab.eu/osm/ontology#Fast_Food,Fast Food
+http://www.app-lab.eu/osm/ontology#Forest,Forest
+http://www.app-lab.eu/osm/ontology#Fort,Fort
+http://www.app-lab.eu/osm/ontology#Fountain,Fountain
+http://www.app-lab.eu/osm/ontology#Gift_Shop,Gift Shop
+http://www.app-lab.eu/osm/ontology#Golf_Course,Golf Course
+http://www.app-lab.eu/osm/ontology#Graveyard,Graveyard
+http://www.app-lab.eu/osm/ontology#Greengrocer,Greengrocer
+http://www.app-lab.eu/osm/ontology#Hairdresser,Hairdresser
+http://www.app-lab.eu/osm/ontology#Hospital,Hospital
+http://www.app-lab.eu/osm/ontology#Hostel,Hostel
+http://www.app-lab.eu/osm/ontology#Hotel,Hotel
+http://www.app-lab.eu/osm/ontology#Ice_Rink,Ice Rink
+http://www.app-lab.eu/osm/ontology#Jeweller,Jeweller
+http://www.app-lab.eu/osm/ontology#Kindergarten,Kindergarten
+http://www.app-lab.eu/osm/ontology#Kiosk,Kiosk
+http://www.app-lab.eu/osm/ontology#Laundry,Laundry
+http://www.app-lab.eu/osm/ontology#Library,Library
+http://www.app-lab.eu/osm/ontology#Mall,Mall
+http://www.app-lab.eu/osm/ontology#Memorial,Memorial
+http://www.app-lab.eu/osm/ontology#Mobile_Phone_shop,Mobile Phone shop
+http://www.app-lab.eu/osm/ontology#Monument,Monument
+http://www.app-lab.eu/osm/ontology#Mosque,Mosque
+http://www.app-lab.eu/osm/ontology#Motel,Motel
+http://www.app-lab.eu/osm/ontology#Museum,Museum
+http://www.app-lab.eu/osm/ontology#Nightclub,Nightclub
+http://www.app-lab.eu/osm/ontology#Nursing_Home,Nursing Home
+http://www.app-lab.eu/osm/ontology#Optician,Optician
+http://www.app-lab.eu/osm/ontology#Park,Park
+http://www.app-lab.eu/osm/ontology#Parking,Parking
+http://www.app-lab.eu/osm/ontology#Parking_Bicycle,Parking Bicycle
+http://www.app-lab.eu/osm/ontology#Parking_Multistorey,Parking Multistorey
+http://www.app-lab.eu/osm/ontology#Parking_Underground,Parking Underground
+http://www.app-lab.eu/osm/ontology#Pharmacy,Pharmacy
+http://www.app-lab.eu/osm/ontology#Playground,Playground
+http://www.app-lab.eu/osm/ontology#Post_Box,Post Box
+http://www.app-lab.eu/osm/ontology#Post_Office,Post Office
+http://www.app-lab.eu/osm/ontology#Prison,Prison
+http://www.app-lab.eu/osm/ontology#Pub,Pub
+http://www.app-lab.eu/osm/ontology#Railway_Station,Railway Station
+http://www.app-lab.eu/osm/ontology#Restaurant,Restaurant
+http://www.app-lab.eu/osm/ontology#River,River
+http://www.app-lab.eu/osm/ontology#Ruins,Ruins
+http://www.app-lab.eu/osm/ontology#School,School
+http://www.app-lab.eu/osm/ontology#Shelter,Shelter
+http://www.app-lab.eu/osm/ontology#Sports_Centre,Sports Centre
+http://www.app-lab.eu/osm/ontology#Sports_Shop,Sports Shop
+http://www.app-lab.eu/osm/ontology#Stadium,Stadium
+http://www.app-lab.eu/osm/ontology#Stationery,Stationery
+http://www.app-lab.eu/osm/ontology#Subway,Subway
+http://www.app-lab.eu/osm/ontology#Supermarket,Supermarket
+http://www.app-lab.eu/osm/ontology#Swimming_Pool,Swimming Pool
+http://www.app-lab.eu/osm/ontology#Temple,Temple
+http://www.app-lab.eu/osm/ontology#Theatre,Theatre
+http://www.app-lab.eu/osm/ontology#Theme_Park,Theme Park
+http://www.app-lab.eu/osm/ontology#Toilet,Toilet
+http://www.app-lab.eu/osm/ontology#Town,Town
+http://www.app-lab.eu/osm/ontology#Town_Hall,Town Hall
+http://www.app-lab.eu/osm/ontology#Toy_Shop,Toy Shop
+http://www.app-lab.eu/osm/ontology#Traffic_Signals,Traffic Signals
+http://www.app-lab.eu/osm/ontology#Tram_Stop,Tram Stop
+http://www.app-lab.eu/osm/ontology#University,University
+http://www.app-lab.eu/osm/ontology#Viewpoint,Viewpoint
+http://www.app-lab.eu/osm/ontology#Village,Village
+http://www.app-lab.eu/osm/ontology#Vineyard,Vineyard
+http://www.app-lab.eu/osm/ontology#Waterfall,Waterfall
+http://www.app-lab.eu/osm/ontology#Zoo,Zoo
